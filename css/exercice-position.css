@@ -1,12 +1,12 @@
 #block1 {
     border: 3px solid black;
-    width: 200px;
+    width: 180px;
     height: 100px;
 }
 
 #block2 {
     border: 3px solid red;
-    width: 200px;
+    width: 180px;
     height: 100px;
     /* position: relative;
     top:-20px; */
@@ -17,8 +17,21 @@
 
 #block3 {
     border: 3px solid black;
-    width: 200px;
+    width: 180px;
     height: 100px;
     position: relative;
     left: 400px;
+}
+
+
+.cc1 {
+    margin: 0;
+}
+
+.cc2 {
+    margin: 10px 30px;
+}
+
+.cc3 {
+    margin: 30px 135px;
 }
