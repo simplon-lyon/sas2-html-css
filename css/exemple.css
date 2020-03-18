@@ -1,0 +1,43 @@
+.carre {
+    width: 200px;
+    height: 200px;
+}
+
+#static {
+    position: static;/*pas nécessaire, static est la position par défaut*/
+    background-color: red;
+    top: 100px;
+    left: 100px;
+}
+
+#relative {
+    position: relative;
+    background-color: green;
+}
+
+#absolute {
+    position: absolute;
+    background-color: blue;
+    top: 100px;
+    left: 100px;
+}
+
+#fixed {
+    position: fixed;
+    background-color: yellow;
+    top: 50px;
+    left: 400px;
+}
+
+
+#sticky {
+    position: sticky;
+    background-color: orange;
+    top: 100px;
+    left: 700px;
+}
+
+
+#element {
+    height: 1000px;
+}
