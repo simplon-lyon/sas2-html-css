@@ -1,0 +1,10 @@
+.carre {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 50%;
+    height: 50%;
+    border: 1px solid black;
+}
+
+
